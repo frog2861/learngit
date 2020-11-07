@@ -3,3 +3,5 @@ Git is free software.
 adfsfsafsa
 add LICENSE
 ADD OTHER INFO
+
+create a new branch is quick
